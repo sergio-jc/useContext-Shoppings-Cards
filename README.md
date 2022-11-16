@@ -8,4 +8,8 @@ manera los estados que requiran tener un gran alcance en tu aplicación,  como l
 2. Cambios en los temas de color (oscuro,claro, persolanlizados).
 3. O cualquier otro estado que tenga una gran incidencia en tus componentes y que sea dificil de rastrear.
 ## ¿Cómo iniciar el proyecto?
-La aplicación esta hecha con Vite (builder de proyectos y empaqutador agnostico al framework o libreria), que se a vuelto una alternativa bastante popular en la actualidad debido a sus rapidezz y simplicidad.
+La aplicación esta hecha con Vite (builder de proyectos y empaquetador agnostico al framework o libreria), que se a vuelto una alternativa bastante popular en la actualidad debido a sus rapidez y simplicidad.
+
+´´´
+var lola = "lola"
+´´´
