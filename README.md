@@ -1,5 +1,6 @@
 # useContext
 En este pequeña apliación se trato de dar un ejemplo practico y simple de como se usa useContext.
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
 
 ## ¿Qué es useContext?
 No te preocupes, te pondre en contexto , losiento mal chiste; useContext es un hook que nos proporciona React para poder administrar de mejor 
