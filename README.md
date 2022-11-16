@@ -2,7 +2,7 @@
 En este pequeña apliación se trato de dar un ejemplo practico y simple de como se usa useContext.
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img src="https://github.com/sergio-jc/useContext-Shoppings-Cards/blob/main/src/assets/useContext.png" alt="JuveYell" width="600px">
 </p>
 </div>
 
