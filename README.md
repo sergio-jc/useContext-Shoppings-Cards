@@ -1,7 +1,7 @@
 # useContext
 En este pequeña apliación se trato de dar un ejemplo practico y simple de como se usa useContext.
 
-##¿Qué es useContext?
+## ¿Qué es useContext?
 No te preocupes, te pondre en contexto , losiento mal chiste; useContext es un hook que nos proporciona React para poder administrar de mejor 
 manera los estados que requiran tener un gran alcance en tu aplicación,  como lo podiran ser : 
 1. Variables con las que identificas si un usuario esta registrado en tu aplicación.
@@ -10,6 +10,8 @@ manera los estados que requiran tener un gran alcance en tu aplicación,  como l
 ## ¿Cómo iniciar el proyecto?
 La aplicación esta hecha con Vite (builder de proyectos y empaquetador agnostico al framework o libreria), que se a vuelto una alternativa bastante popular en la actualidad debido a sus rapidez y simplicidad.
 
-´´´
-var lola = "lola"
-´´´
+### Ejecuta este comando
+
+```
+npm run dev
+```  
